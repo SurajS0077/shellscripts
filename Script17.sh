@@ -5,3 +5,9 @@ Hello () {
 }
 # calling our function
 Hello
+
+Hello () {
+ echo "Hello World"
+}
+# calling our function
+Hello
